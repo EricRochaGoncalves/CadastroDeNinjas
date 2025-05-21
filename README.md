@@ -57,7 +57,3 @@ git clone https://github.com/seu-usuario/cadastro-de-ninjas.git
 ```
 
 3. Acesse: `http://localhost:8080/ninjas`
-
----
-
-Desenvolvido com 💻 e muito café ☕ por [Seu Nome]
